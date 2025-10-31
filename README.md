@@ -1,16 +1,14 @@
-## Hi there 👋
+<!-- Banner Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/igmayankdev/igmayankdev/main/1.png" width="100%" alt="Mayank Gupta Banner"/>
+</p>
 
-<!--
-**igmayankdev/igmayankdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Languages & Social Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/igmayankdev/igmayankdev/main/2.png" width="100%" alt="Languages and Tools"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Follow Section -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/igmayankdev/igmayankdev/main/4.png" width="100%" alt="Follow Me"/>
+</p>
